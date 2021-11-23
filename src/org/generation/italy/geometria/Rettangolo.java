@@ -19,7 +19,7 @@ public class Rettangolo {
 	}
 	
 	int calcolaPerimetro() {
-		int calcolaPerimetro = 2*this.base + 2*this.altezza;
+		int calcolaPerimetro = 2*(this.base + this.altezza);
 		return calcolaPerimetro;
 	}
 	
