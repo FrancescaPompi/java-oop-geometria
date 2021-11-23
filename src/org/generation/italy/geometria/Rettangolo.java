@@ -14,8 +14,8 @@ public class Rettangolo {
 	
 	// metodi
 	int calcolaArea() {
-		int calcoloArea = this.base * this.altezza;
-		return calcoloArea;
+		int calcolaArea = this.base * this.altezza;
+		return calcolaArea;
 	}
 	
 	int calcolaPerimetro() {
